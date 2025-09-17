@@ -1,8 +1,12 @@
-# REST-APIs
-A simple page that uses all of the HTTP requests to GET, POST, PUT, PATCH and DELETE data on an API. using server side request with Axios back-end package. visit API URL ; https://secrets-api.appbrewery.com for more information. <br/> This is a web developement course project.
+# API-secretsProject
+A page with a fancy design done in CSS , that when user hovers over a card , it will reveal a "Secret" sent from a public api. Visit the api here : https://secrets-api.appbrewery.com
+ 
 #### <sub>Back-end + Front-end</sub>
 ---
 
-### Page screen shot:
+### Page screen shots:
 
-![home page](https://github.com/pouriavj/REST-APIs/blob/main/REST-APIs.jpg?raw=true)
+![home page](https://github.com/pouriavj/API-secretsProject/blob/main/screenshot1.jpg?raw=true)
+---
+![home page](https://github.com/pouriavj/API-secretsProject/blob/main/screenshot2.jpg?raw=true)
+
