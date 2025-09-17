@@ -10,5 +10,6 @@ A page with a fancy design done in CSS , that when user hovers over a card , it 
 ---
 ![home page](https://github.com/pouriavj/API-secretsProject/blob/main/screenshot2.jpg?raw=true)
 ---
-To run this project , use command `npm i` to install npm necessary modules 
+To run this project , use command `npm i` to install npm necessary modules,<br/>
+Then run command `node index.js` to run the server on port: 3000<br/> 
 
