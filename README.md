@@ -1,6 +1,6 @@
 # API-secretsProject
 A page with a fancy design done in CSS , that when user hovers over a card , it will reveal a "Secret" sent from a public api. Visit the api here : https://secrets-api.appbrewery.com
- 
+<br/>This is a web developement course project. 
 #### <sub>Back-end + Front-end</sub>
 ---
 
