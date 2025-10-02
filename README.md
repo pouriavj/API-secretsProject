@@ -1,14 +1,44 @@
 # API-secretsProject
-A page with a fancy design done in CSS , that when user hovers over a card , it will reveal a "Secret" sent from a public API. Visit the api here : https://secrets-api.appbrewery.com
-<br/>This is a web developement course project. 
-#### <sub>Back-end + Front-end</sub>
----
-To run this project , use command `npm i` to install npm necessary modules,<br/>
-Then run command `node index.js` to run the server on port: 3000 , using Node.js .<br/>
-If you wish you can change the port in the index.js file , by changing the value of the variable `const port = 3000`.
 
-### Page screen shots:
+This project is a full-stack web app with a **fancy design** and smooth **animations**.  
+It uses **Axios** to fetch data from the [Secrets API](https://secrets-api.appbrewery.com), and renders dynamic content with **EJS templates**.  
 
-![home page](https://github.com/pouriavj/API-secretsProject/blob/main/screenshot1.jpg?raw=true)
 ---
-![home page](https://github.com/pouriavj/API-secretsProject/blob/main/screenshot2.jpg?raw=true)
+
+## 🚀 Features
+
+- Stylish design and hover animations with CSS  
+- Fetches and displays secrets from a public API  
+- Uses **Axios** for API interaction  
+- **EJS** for server-side templating  
+- Runs on a Node.js + Express backend  
+
+---
+
+## 🛠️ Core Tech
+
+- [Node.js](https://nodejs.org/)  
+- [Express.js](https://expressjs.com/)  
+- [EJS](https://ejs.co/)  
+- HTML5 / CSS3  
+
+---
+
+## 📦 Additional Libraries
+
+- [Axios](https://axios-http.com/) – for API requests  
+
+---
+
+## 🎥 Demo
+
+![Secrets Project Demo](./assets/demo.gif)  
+*A short demo showcasing the design, animations, and API interaction.*
+
+---
+
+## ⚙️ How to Run
+
+1. Install dependencies:
+   ```bash
+   npm install
