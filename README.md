@@ -32,8 +32,8 @@ It uses **Axios** to fetch data from the [Secrets API](https://secrets-api.appbr
 
 ## 🎥 Demo
 
-![Secrets Project Demo](./assets/demo.gif)  
-*A short demo showcasing the design, animations, and API interaction.*
+![Secrets Project Demo](./secretsProject.gif)  
+
 
 ---
 
