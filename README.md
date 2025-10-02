@@ -48,5 +48,5 @@ It uses **Axios** to fetch data from the [Secrets API](https://secrets-api.appbr
    node index.js
    ```
 3. Open http://localhost:3000 in your browser.
-   (You can change the port in `index.js` by modifying `const port = 3000`;)
+   (You can change the port in `index.js` by modifying `const port = 3000;`)
    
