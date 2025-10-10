@@ -13,20 +13,6 @@ It uses **Axios** to fetch data from the [Secrets API](https://secrets-api.appbr
 - **EJS** for server-side templating  
 - Runs on a Node.js + Express backend  
 
----
-
-## 🛠️ Core Tech
-
-- [Node.js](https://nodejs.org/)  
-- [Express.js](https://expressjs.com/)  
-- [EJS](https://ejs.co/)  
-- HTML5 / CSS3  
-
----
-
-## 📦 Additional Libraries
-
-- [Axios](https://axios-http.com/) – for API requests  
 
 ---
 
@@ -49,4 +35,17 @@ It uses **Axios** to fetch data from the [Secrets API](https://secrets-api.appbr
    ```
 3. Open http://localhost:3000 in your browser.
    (You can change the port in `index.js` by modifying `const port = 3000;`)
-   
+
+---
+
+## 🛠️ Core Tech
+
+- [Node.js](https://nodejs.org/)  
+- [Express.js](https://expressjs.com/)  
+- [EJS](https://ejs.co/)  
+- HTML5 / CSS3  
+
+## 📦 Additional Libraries
+
+- [Axios](https://axios-http.com/) – for API requests  
+
